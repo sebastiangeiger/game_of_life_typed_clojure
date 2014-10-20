@@ -1,6 +1,8 @@
 (ns game-of-life.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+
+(defn equal-generation? [generation-a generation-b]
+  (= (set generation-a) (set generation-b)))
+
+(defn next-generation [current]
+  current)
