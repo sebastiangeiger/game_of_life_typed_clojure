@@ -1,14 +1,10 @@
 # game_of_life
 
-A Clojure library designed to ... well, that part is up to you.
+A implementation of game of life in Clojure
 
-## Usage
+## TODO
 
-FIXME
+  * [] Remove all traces of type clojure
+  * [] Program the whole thing with unit tests only
+  * [] Add annotations
 
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
